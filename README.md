@@ -70,32 +70,6 @@ print(f"Received {data!r}")
 
 ```
 
-##  Architecture Diagram
-
-```bash
-+--------------------------+
-|  User's Web Browser      |
-|  (Client: Chrome/Firefox)|
-+-----------+--------------+
-            |
-            |  HTTP Request (GET /)
-            v
-+-----------+--------------+
-|   Python Web Server      |
-| (http.server + Handler)  |
-| - Listens on Port 8000   |
-| - Handles GET Requests   |
-| - Sends HTML Response    |
-+-----------+--------------+
-            |
-            |  HTML Response
-            v
-+--------------------------+
-|  User Sees Rendered Page |
-|  <h1>Hello Web Server</h1>|
-+--------------------------+
-```
-
 
 ## OUTPUT:
 ### CLIENT OUTPUT:
