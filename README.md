@@ -64,11 +64,8 @@ print(f"Received {data!r}")
 
 
 ## OUTPUT:
-### CLIENT OUTPUT:
+### CLIENT AND SEREVER OUTPUT:
 
-![Alt text](<Screenshot at 2025-09-12 05-18-14.png>)
-### SERVER OUTPUT:
-
-![Alt text](<Screenshot at 2025-09-12 05-17-51.png>)
+![Alt text](<1.1.png>)
 ## RESULT:
 The program is executed succesfully
