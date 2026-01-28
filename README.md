@@ -66,6 +66,6 @@ print(f"Received {data!r}")
 ## OUTPUT:
 ### CLIENT AND SEREVER OUTPUT:
 
-![Alt text](<1.1.png>)
+![Alt text](<1.png>)
 ## RESULT:
 The program is executed succesfully
